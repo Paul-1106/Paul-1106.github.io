@@ -1,7 +1,99 @@
 * {
     margin: 0;
+    background-size: 100%;
 }
 
 h1.nameTitle {
     text-align: center;
+    font-size: 65px;
+    margin-top: 0%;
+    background-color: #6CD7F0;
+    padding: 40px 40px 40px 40px;
+    border: 4px solid blue;
+}
+
+p.nameSubTitle {
+    text-align: center;
+    margin-top: 0%;
+    font-size: 25px;
+    border: 3px solid blue;
+    background-color: #6CD7F0;
+    padding: 20px;
+}
+
+div.sectionSpacing {
+    text-align: center;
+}
+
+section.firstSection {
+    margin-right: 29%;
+    background-color: #DE7E71;
+    padding: 50px 50px 50px 50px;
+}
+
+div.firstTitles {
+    font-size: 45px;
+    line-height: 2;
+}
+
+h2.firstCategory {
+    margin-right: 25%;
+}
+
+h4.firstCateSubTitle {
+    margin-right: 25%;
+}
+
+p.firstCateDesc {
+    margin-right: 25%;
+}
+
+section.secondSection {
+    margin-left: 29%;
+    background-color: #81B0D6;
+    padding: 50px 100px 50px 100px;
+}
+
+div.secondTitles {
+    font-size: 45px;
+    line-height: 2;
+}
+
+section.thirdSection {
+    margin-right: 29%;
+    background-color: #91D681;
+    padding: 50px 100px 50px 100px;
+}
+
+div.thirdTitles {
+    font-size: 44.5px;
+    line-height: 2;
+}
+
+div.lineOne {
+    border: 2px solid black;
+}
+
+div.lineTwo {
+    border: 2px solid black;
+}
+
+img.imageGraphic {
+    position: absolute;
+    left: 70.7%;
+    bottom: 54.4%;
+}
+
+img.imageDSA {
+    position: absolute;
+    right: 70.7%;
+    bottom: 27.1%;
+}
+
+img.imageDatabase {
+    position: absolute;
+    left: 70.7%;
+    top: 73.1%;
+    width: 745px;
+    height: 343px;
 }
