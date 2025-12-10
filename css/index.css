@@ -1,6 +1,7 @@
 * {
     margin: 0;
     background-size: 100%;
+    font-family: "Monaco", monospace;
 }
 
 h1.nameTitle {
@@ -36,8 +37,18 @@ div.firstTitles {
     line-height: 2;
 }
 
-h2.firstCategory {
+a.firstCategory {
     margin-right: 25%;
+    font-size: 66.5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+
+a.firstCategory:hover {
+    transition: 0.5s;
+    color: yellow;
 }
 
 h4.firstCateSubTitle {
@@ -54,6 +65,28 @@ section.secondSection {
     padding: 50px 100px 50px 100px;
 }
 
+a.secondCategory {
+    margin-left: 25%; 
+    font-size: 66.5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+
+a.secondCategory:hover {
+    transition: 0.5s;
+    color: yellow;
+}
+
+h4.secondCateSubTitle {
+    margin-left: 25%;
+}
+
+p.secondCateDesc {
+    margin-left: 25%;
+}
+
 div.secondTitles {
     font-size: 45px;
     line-height: 2;
@@ -63,6 +96,28 @@ section.thirdSection {
     margin-right: 29%;
     background-color: #91D681;
     padding: 50px 100px 50px 100px;
+}
+
+a.thirdCategory {
+    margin-right: 25%;
+    font-size: 66.5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+
+a.thirdCategory:hover {
+    transition: 0.5s;
+    color: yellow;
+}
+
+h4.thirdCateSubTitle {
+    margin-right: 25%;
+}
+
+p.thirdCateDesc {
+    margin-right: 25%;
 }
 
 div.thirdTitles {
