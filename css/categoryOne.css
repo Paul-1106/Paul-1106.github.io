@@ -2,6 +2,7 @@
     margin: 0;
     background-size: 100%;
     font-family: "Monaco", monospace;
+    font-size: 25px;
 }
 
 h1.mainTitle {
@@ -26,6 +27,151 @@ div.lineOne {
 }
 
 div.headerTitle {
+    background-color: #DE7E71;
+    padding: 20px 20px 80px 20px;
+}
+
+p.paragraphOne {
+    text-align: center;
+    margin-top: 2%;
+}
+
+p.paragraphTwo {
+    text-align: center;
+    margin-top: 2%;
+}
+
+img.imageBefore {
+    width: 600px;
+    height: 600px;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+p.paragraphThree {
+    text-align: center;
+    margin-top: 3%;
+    font-size: 25px;
+}
+
+h2.headerBefore {
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 25%;
+}
+
+div.beforeRow {
+    display: inline-flex;
+    margin-left: 25%;
+}
+
+h3.codeReview {
+    margin-left: 25%;
+    margin-top: 5%;
+    font-size: 45px;
+}
+
+img.codeShapes {
+    width: 600px;
+    height: auto;
+    margin-left: 40%;
+}
+
+div.boxFour {
+    margin-left: 15%;
+}
+
+h3.headTexture {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 40px;
+}
+
+img.codeTexture {
+    margin-left: 40%;
+    margin-top: 1%;
+    width: 600px;
+    height: auto;
+}
+
+div.boxFive {
+    margin-top: 3%;
+    margin-left: 15%;
+}
+
+h3.headLightning {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 5%;
+}
+
+div.boxImage {
+    display: inline-flex;
+    gap: 100px;
+    margin-left: 25%;
+}
+
+img.codeLightningC {
+    width: 600px;
+    height: auto;
+}
+
+img.codeLightningS {
+    width: 600px;
+    height: auto;
+}
+
+p.paragraphSix1 {
+    margin-top: 2%;
+}
+
+div.boxSixImage {
+    margin-top: 3%;
+    margin-left: 10%; 
+}
+
+div.boxImage2 {
+    display: inline-flex;
+    gap: 100px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+img.codeAfter1 {
+    width: 600px;
+    height: auto;
+}
+
+img.codeAfter2 {
+    width: 600px;
+    height: auto;
+}
+
+div.boxSeven {
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+p.paragraphSeven1 {
+    margin-top: 2%;
+}
+
+p.paragraphSeven2 {
+    margin-top: 2%;
+}
+
+h3.afterTitle {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 40px;
+}
+
+div.footerLine {
+    border: 3px solid black;
+    margin-top: 5%;
+}
+
+div.footerRow {
     background-color: #DE7E71;
     padding: 20px 20px 80px 20px;
 }

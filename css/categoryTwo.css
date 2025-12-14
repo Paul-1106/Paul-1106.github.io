@@ -2,6 +2,7 @@
     margin: 0;
     background-size: 100%;
     font-family: "Monaco", monospace;
+    font-size: 25px;
 }
 
 h1.mainTitle {
@@ -16,16 +17,52 @@ h3.mainSubTitle {
     margin-top: 1%;
 }
 
-/* body.bodyClass {
-    background-color: #DE7E71;
-} */
-
 div.lineOne {
     border: 3px solid black;
     margin-top: 0%;
 }
 
 div.headerTitle {
+    background-color: #81B0D6;
+    padding: 20px 20px 80px 20px;
+}
+
+p.paragraphOne {
+    text-align: center;
+    margin-top: 5%;
+}
+
+p.paragraphTwo {
+    text-align: center;
+    margin-top: 2%;
+}
+
+p.paragraphThree {
+    text-align: center;
+    margin-top: 1%;
+}
+
+p.paragraphFour {
+    text-align: center;
+    margin-top: 10%;
+}
+
+p.paragraphFour1 {
+    text-align: center;
+    margin-top: 1%;
+}
+
+h3.codeReview {
+    text-align: center;
+    margin-top: 5%;
+}
+
+div.footerLine {
+    border: 3px solid black;
+    margin-top: 5%;
+}
+
+div.footerRow {
     background-color: #81B0D6;
     padding: 20px 20px 80px 20px;
 }
