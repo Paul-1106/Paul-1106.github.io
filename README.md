@@ -1,6 +1,8 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/Binary_Search_Tree-C%2B%2B-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/OpenGL-C%2B%2B-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-lightgreen"> <img alt="Static Badge" src="https://img.shields.io/badge/Web%20Development-gold"> <img alt="Static Badge" src="https://img.shields.io/badge/Backend_Development-C%2B%2B-navy"> <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter_Lab-Python3-teal">
+
 # <h1><u>**Paul's E-Portfolio page**</u></h1>
 
-ePortfolio's page link: https://paul-1106.github.io/
+📜 ePortfolio's page link: https://paul-1106.github.io/ 📜
 
 <h3><u>Category I</u></h3>
 - I have bulid this project from CS-330. This course is for computer graphic and engineering with using C++ and OpenGL.
@@ -24,12 +26,15 @@ ePortfolio's page link: https://paul-1106.github.io/
 - With using a CSV file, I can modify all the element listed in the CSV file with using mongoDB. 
 - For a full stack development, I use python to handle the CRUD method function and then html for frontend development to create a dashboard page.
 <br>
-<h3>Database Link:</h3> 
+<h3>Database Link:</h3> https://github.com/Paul-1106/CS-499-Database-Project/tree/main
 <br>
 
-<h2><u>Code Reviews:</u></h2>
-Computer Graphics and Engineering CS-330: 
-Algorithms and Data Structures CS-300:
-Database CS-340: 
+<h2><u> 🔊 Code Reviews:</u></h2>
+Computer Graphics and Engineering CS-330: https://youtu.be/Ixmjw2R43hU<br> 
+Algorithms and Data Structures CS-300: https://youtu.be/stYys4-GRdA<br>
+Database CS-340: https://youtu.be/Ga-OsCqm6rI
 
-<h2><u>Milestone Documents:</u></h2>
+<h2><u> 📖 Milestone Documents:</u></h2>
+Milestone Two (Category I - CS-330): (https://github.com/user-attachments/files/24165737/Milestone.Two.docx)<br>
+Milestone Three (Category II - CS-300): (https://github.com/user-attachments/files/24165780/Milestone.Three.docx)<br>
+Milestone Four (Category III - CS-340): (https://github.com/user-attachments/files/24165790/Milestone.Four.docx)
