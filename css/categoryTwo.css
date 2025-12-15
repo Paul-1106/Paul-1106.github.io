@@ -55,6 +55,7 @@ p.paragraphFour1 {
 h3.codeReview {
     text-align: center;
     margin-top: 5%;
+    font-size: 45px;
 }
 
 div.footerLine {
@@ -65,4 +66,112 @@ div.footerLine {
 div.footerRow {
     background-color: #81B0D6;
     padding: 20px 20px 80px 20px;
+}
+
+h4.constructorTitle {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 2%;
+}
+
+img.constructorImage {
+    margin-left: 40%;
+}
+
+div.boxFive {
+    margin-left: 25%;
+}
+
+p.paragraphFive {
+    margin-top: 3%;
+}
+
+h4.loadTitle {
+    margin-top: 8%;
+    text-align: center;
+    font-size: 45px;
+}
+
+img.loadImage {
+    margin-left: 35%;
+}
+
+div.boxSix {
+    margin-top: 2%;
+    margin-left: 25%;
+}
+
+h4.displayTitle {
+    margin-top: 5%;
+    font-size: 45px;
+    text-align: center;
+}
+
+img.displayImage {
+    margin-left: 35%;
+}
+
+p.paragraphSeven {
+    margin-top: 2%;
+    text-align: center;
+}
+
+h4.addTitle {
+    margin-top: 5%;
+    font-size: 45px;
+    text-align: center;
+}
+
+img.addImage {
+    margin-left: 35%;
+}
+
+div.boxEight {
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+h4.searchTitle {
+    margin-top: 5%;
+    font-size: 45px;
+    text-align: center;
+}
+
+img.searchImage {
+    margin-left: 35%;
+}
+
+div.boxNine {
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+h4.sortTitle {
+    margin-top: 5%;
+    font-size: 45px;
+    text-align: center;
+}
+
+img.sortImage {
+    margin-left: 35%;
+}
+
+div.boxTen {
+    margin-top: 2%;
+    margin-left: 25%;
+}
+
+h4.removeTitle {
+    margin-top: 5%;
+    font-size: 45px;
+    text-align: center;
+}
+
+img.removeImage {
+    margin-left: 35%;
+}
+
+div.boxEleven {
+    margin-top: 2%;
+    margin-left: 30%;
 }
